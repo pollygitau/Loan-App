@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265989589494",
+    "firebase_url": "https://loanapp-75b1d.firebaseio.com",
+    "project_id": "loanapp-75b1d",
+    "storage_bucket": "loanapp-75b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265989589494:android:762e07ba3be8fc83",
+        "android_client_info": {
+          "package_name": "com.blaire.getaloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265989589494-tu0em7664b1vgp3mfbs7vmbt5kilp15q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blaire.getaloan",
+            "certificate_hash": "b4e4d160fef9cafcc487c4f03890395991d81da6"
+          }
+        },
+        {
+          "client_id": "265989589494-1eh7f8ac2fnq90963aab17hep0p1eq4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGQN4N7DmuDloslFGHDoR8dGGdZ1DfhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265989589494-1eh7f8ac2fnq90963aab17hep0p1eq4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
